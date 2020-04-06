@@ -1,6 +1,16 @@
-# Quotes
+# Quotes App
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.1.0.
+##By *Lilian Njambi*
+## Description
+
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version6.14.4.
+## Technologies used
+Angular cli
+##License
+MIT
+Copyright(c){2020}
+##PROJECT
+###LINK
 
 ## Development server
 

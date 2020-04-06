@@ -1,0 +1,79 @@
+.poh{
+  background-color: #aaf0d1;
+  height:800px;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.mine{
+  background-image: url('/assets/bulb.jpg');
+  height:1200px;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.jumbotron {
+ align-content: center;
+ text-align: center;
+ /* background-image: url('/assets/.jpg'); */
+ color: rgb(20,37,22);
+ margin-bottom: 0;
+ font-size: 60px;
+}
+
+/* #two {
+ background-image: url('/assets/huh.jpg');
+} */
+
+/* #lol {
+ justify-content: center;
+} */
+
+/* #cre {
+ color: yellow;
+} */
+
+#crd {
+ border: 1px;
+ border-style: outset;
+ width: 800px;
+ margin-bottom: 10px;
+ font-style: italic;
+ /* color: yellow; */
+}
+
+#small {
+ font-variant: normal;
+ font-size: 14px;
+ align-content: center;
+}
+
+#ppp {
+ padding: 0.1;
+ /* background-image: url('/assets/eight.jpg'); */
+ font-size: 18px;
+ color: blue;
+}
+
+#hut {
+ padding: 0;
+ margin: 0;
+}
+
+#one {
+ align-content: center;
+ text-align: center;
+ /* background-image: url('/assets/free.jpg'); */
+ color: black;
+ font-size: 16px;
+}
+
+.btn {
+ padding: 4px;
+ margin: 6px;
+ border: none;
+ color: black;
+ width: 150px;
+ font-variant: normal;
+ font-size: 14px;
+}
